@@ -1,0 +1,7 @@
+/* App-specific styles - imported after index.css */
+
+/* App-level styles */
+.app {
+  min-height: 100vh;
+  position: relative;
+}
